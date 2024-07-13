@@ -67,5 +67,5 @@ body{
 }
 
 .toggle-btn:checked ~ .content{
-  pointer-events: none;
+  pointer-events: none;.
   opacity: 0;}
