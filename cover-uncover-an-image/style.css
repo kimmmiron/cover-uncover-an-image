@@ -68,4 +68,4 @@ body{
 
 .toggle-btn:checked ~ .content{
   pointer-events: none;.
-  opacity: 0;}
+  opacity: 0;}.
